@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Spark accounts related webhook APIs "
+  message: "Welcome to Spark accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}23f8514e2012df435ecb06bfad783eeaba8736b008a9affe9bf80923d99ffd8a235d0ef5f1208c22c2328e76c5a7fb50"
